@@ -1,0 +1,2 @@
+at_utc,post_id,platform,decision,note,uid
+2026-10-18T08:10:00Z,TEST-PIPELINE,none,approved,"Setup test by Grok Bot, ignore",pipeline-test-20261018

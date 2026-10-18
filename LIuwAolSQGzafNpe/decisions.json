@@ -1,4 +1,15 @@
 {
-  "updated": null,
-  "decisions": []
+  "updated": "2026-10-18T08:05:25+00:00",
+  "decisions": [
+    {
+      "uid": "pipeline-test-20261018",
+      "post_id": "TEST-PIPELINE",
+      "platform": "none",
+      "decision": "approved",
+      "note": "Setup test by Grok Bot, ignore",
+      "at": "2026-10-18T08:10:00Z",
+      "received": "2026-10-18T08:05:15+00:00",
+      "ntfy_id": "isJ8Xp8a4Zk5"
+    }
+  ]
 }
